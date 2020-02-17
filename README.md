@@ -1,4 +1,4 @@
-# coding practices
+# Coding Practices
 
 In this repository I have basically put my coding practices in different languages. Mostly tried to use Python, C++. In future I would like to translate them to Go. It would be fun.
 
